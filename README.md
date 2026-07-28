@@ -1,2 +1,2 @@
-# Azzorti
-CyD equipo
+Personal
+Corporate
